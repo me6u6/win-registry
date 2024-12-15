@@ -1,0 +1,7 @@
+https://github.com/aoyagikouhei/resident_sample/tree/v0.1.1
+https://github.com/mackerelio-labs/mackerel-agent-rs
+https://github.com/Krout0n/os-stat-rs/
+https://github.com/itchyny/mackerel-client-rs
+https://github.com/tmetsch/rusty_agent/
+https://github.com/tmetsch/rusty_planner
+https://github.com/dfinity/agent-rs
